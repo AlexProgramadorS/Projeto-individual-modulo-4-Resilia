@@ -3,6 +3,8 @@
 ### :computer: SOBRE O PROJETO:
 <p> A Resilia está pensando em lançar um novo sistema de acompanhamento e para isso precisa de ajuda para modelar um banco de dados que vai armazenar seus cursos, turmas e alunos. Nesse sistema recebemos a tarefa de realizar essa modelagem e responder algumas perguntas com nosso modelo:
 
+<img align="center" src="https://media.discordapp.net/attachments/1056426877159473215/1069787759008559164/image.png">
+
 ### ⇨ Existem outras entidades além dessas três?
 Não, porém poderiam existir.
 
