@@ -14,7 +14,7 @@ Não, porém poderiam existir.
 Os principais campos(atributos) são:
 ID, Matéria, Duração, Professor, Módulo, Sala, Turno, Monitor, Número de alunos, Nome, Cpf, Telefone e Matrícula.
 
-Os principais campos(atributos) são:
+Os principais tipos são:
 Varchar e Int.
 
 ### ⇨ Como essas entidades estão relacionadas?
