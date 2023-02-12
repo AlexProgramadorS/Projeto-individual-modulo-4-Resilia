@@ -1,4 +1,4 @@
-## Projeto Individual correspondente ao modulo 4 do curso de Full-Stack Programadores Cariocas das Instituições SENAC e Resilia. Unidade de Madureira, Rio de Janeiro.</
+## Projeto Individual correspondente ao modulo 4 do curso de Full-Stack Programadores Cariocas das Instituições SENAC e Resilia. Unidade de Madureira, Rio de Janeiro.
 
 ## :computer: Sobre o projeto:
 <p> A Resilia está pensando em lançar um novo sistema de acompanhamento e para isso precisa de ajuda para modelar um banco de dados que vai armazenar seus cursos, turmas e alunos. Nesse sistema recebemos a tarefa de realizar essa modelagem e responder algumas perguntas com nosso modelo:
